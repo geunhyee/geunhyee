@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram Follow Me">](https://www.instagram.com/geu.ne/)
+<img src="https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram Follow Me">(https://www.instagram.com/geu.ne/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
