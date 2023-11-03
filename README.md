@@ -7,6 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="center">
   <p><a href="https://www.instagram.com/geu.ne/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @geu.ne</a></p>  
+  <p><a href="https://www.instagram.com/hae._.ve/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @hae._.ve</a></p>  
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
