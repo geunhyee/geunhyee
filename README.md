@@ -5,10 +5,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=geunhyee&label=Profile%20views&color=0e75b6&style=flat" alt="geunhyee" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<div align="center">
   <p><a href="https://www.instagram.com/geu.ne/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @geu.ne</a></p>  
-<img src="https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram Follow Me" <a href="https://www.instagram.com/geu.ne/">
-</p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
